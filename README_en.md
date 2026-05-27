@@ -73,7 +73,7 @@ If you cannot clone or download, open the `SKILL.md` file directly on the GitHub
 **Method 1: Cowork Skill Install (One-click activation)**
 
 1. Open Claude Desktop / Cowork
-2. Type `/dwight` in the conversation
+2. Type `/dwight-schrute` in the conversation
 3. The system will guide you through adding the skill
 4. Alternatively, manually paste the contents of `SKILL.md` as a custom skill
 
