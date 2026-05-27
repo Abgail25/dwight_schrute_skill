@@ -73,7 +73,7 @@ cd 你的仓库名
 **方式一：Cowork 技能安装（一键激活）**
 
 1. 打开 Claude Desktop / Cowork
-2. 在对话中输入 `/dwight`
+2. 在对话中输入 `/dwight-schrute`
 3. 系统会自动提示你添加该技能
 4. 也可以手动将 `SKILL.md` 的内容复制粘贴为自定义 skill
 
