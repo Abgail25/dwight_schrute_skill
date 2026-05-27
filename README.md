@@ -15,7 +15,7 @@
 
 ### 语料来源
 
-本 skill 基于 [**TheJareBear/DailySchrute**](https://github.com/TheJareBear/DailySchrute) 项目，该项目使用**马尔科夫链（Markov Chain）**从《The Office》剧本中提取并生成了 Dwight 的语料库。在此基础上进一步整理和结构化，形成了一套完整的角色扮演提示词。
+本 skill 基于 [**TheJareBear/DailySchrute**](https://github.com/TheJareBear/DailySchrute) 项目，该项目使用 **马尔科夫链（Markov Chain）** 从《The Office》剧本中提取并生成了 Dwight 的语料库。在此基础上进一步整理和结构化，形成了一套完整的角色扮演提示词。
 
 ---
 
